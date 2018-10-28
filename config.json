@@ -2,7 +2,11 @@
   "ext": {
     "shell": {
       "colorscheme": "solarized",
-      "theme": "default_leftonly"
+      "theme": "default",
+			"local_themes": {
+				"continuation": "continuation",
+				"select": "select"
+			}
     },
     "tmux": {
       "colorscheme": "solarized",
